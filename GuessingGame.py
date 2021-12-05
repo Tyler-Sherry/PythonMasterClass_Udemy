@@ -17,20 +17,5 @@ else:
     else:
         print("Sorry you have not guessed correctly")
 
-# if guess < answer:
-#     print("Please guess higher")
-#     guess = int(input())
-#     if guess == answer:
-#         print("Well done, you guessed the it")
-#     else:
-#         print("Sorry, you have not guessed correctly")
-# elif guess > answer:
-#     print("Please guess lower")
-#     guess = int(input())
-#     if guess == answer:
-#         print("Well done, you guessed the it")
-#     else:
-#         print("Sorry, you have not guessed correctly")
-# else:
-#     print("You guessed correctly the first time")
+print("Update to guessing game file!")
 
